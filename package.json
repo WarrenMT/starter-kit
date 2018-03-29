@@ -17,6 +17,7 @@
     "generate": "ng generate"
   },
   "dependencies": {
+    "@angular/cli": "~1.7.2",
     "@angular/animations": "^5.2.5",
     "@angular/common": "^5.2.5",
     "@angular/compiler": "^5.2.5",
